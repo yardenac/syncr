@@ -47,6 +47,12 @@
 + /lib/systemd/***
 - /lib/*
 + /var/
++ /var/lib/
++ /var/lib/mailman/
+- /var/lib/mailman/messages/
+- /var/lib/mailman/archives/private/
++ /var/lib/mailman/archives/***
+- /var/lib/*
 + /var/www/***
 - /var/*
 - /*
