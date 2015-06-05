@@ -52,6 +52,15 @@
 - /var/lib/mailman/messages/
 - /var/lib/mailman/archives/private/
 + /var/lib/mailman/archives/***
+- /var/lib/mailman/data/adm.pw
+- /var/lib/mailman/data/aliases*
+- /var/lib/mailman/data/heldmsg-*.pck
++ /var/lib/mailman/data/***
+- /var/lib/mailman/lists/*/digest.mbox
+- /var/lib/mailman/lists/*/*.pck
+- /var/lib/mailman/lists/*/*.pck.last
++ /var/lib/mailman/lists/***
+- /var/lib/mailman/qfiles/virgin
 - /var/lib/*
 + /var/www/***
 - /var/*
