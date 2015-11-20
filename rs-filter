@@ -1,4 +1,5 @@
 - /etc/apparmor.d
+- /etc/apt/trusted.gpg*
 - /etc/bash_completion.d
 - /etc/chatscripts
 - /etc/dbconfig-common
