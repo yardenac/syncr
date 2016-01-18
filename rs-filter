@@ -6,6 +6,8 @@
 - /etc/default/cacerts
 - /etc/dkim/*.private
 - /etc/dkim/*.txt
+- /etc/dovecot/private/
+- /etc/dovecot/dovecot-*sql.conf.ext
 - /etc/exim4
 - /etc/fonts
 - /etc/iscsi/iscsid.conf
