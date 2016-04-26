@@ -112,6 +112,7 @@
 - /var/lib/*
 - /var/www/html/builds/chaos_calmer/
 - /var/www/html/toolchains/ar71xx-toolchain.tar.gz
+- /var/www/pad.local/etherpad-lite/
 + /var/www/***
 - /var/*
 - /*
