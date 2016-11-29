@@ -49,6 +49,11 @@
 + /lib/
 + /lib/systemd/***
 - /lib/*
++ /usr/
++ /usr/lib/
++ /usr/lib/sysusers.d/***
+- /usr/lib/*
+- /usr/*
 + /var/
 + /var/lib/
 + /var/lib/mailman/
