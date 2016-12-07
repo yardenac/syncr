@@ -14,7 +14,11 @@
 - /etc/ImageMagick
 - /etc/lvm/archive/
 - /etc/lvm/backup/
+- /etc/lvm/cache/
 - /etc/mail
+- /etc/pacman.d/gnupg/crls.d/
+- /etc/pacman.d/gnupg/openpgp-revocs.d/
+- /etc/pacman.d/gnupg/private-keys-v1.d/
 - /etc/phpmyadmin
 - /etc/polkit-1
 - /etc/postgresql/9.1/main/pg_hba.conf
