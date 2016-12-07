@@ -2,6 +2,7 @@
 - /etc/apt/trusted.gpg*
 - /etc/bash_completion.d
 - /etc/chatscripts
+- /etc/crypttab
 - /etc/dbconfig-common
 - /etc/default/cacerts
 - /etc/dkim/*.private
@@ -19,6 +20,7 @@
 - /etc/pacman.d/gnupg/crls.d/
 - /etc/pacman.d/gnupg/openpgp-revocs.d/
 - /etc/pacman.d/gnupg/private-keys-v1.d/
+- /etc/pacman.d/gnupg/secring.gpg
 - /etc/phpmyadmin
 - /etc/polkit-1
 - /etc/postgresql/9.1/main/pg_hba.conf
