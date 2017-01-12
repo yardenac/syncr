@@ -13,6 +13,10 @@
 - /etc/fonts
 - /etc/iscsi/iscsid.conf
 - /etc/ImageMagick
+- /etc/letsencrypt/accounts/
+- /etc/letsencrypt/archive/
+- /etc/letsencrypt/keys/
+- /etc/letsencrypt/live/
 - /etc/lvm/archive/
 - /etc/lvm/backup/
 - /etc/lvm/cache/
