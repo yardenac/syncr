@@ -74,6 +74,7 @@
 - /var/lib/mailman/data/aliases*
 - /var/lib/mailman/data/bounce-events*
 - /var/lib/mailman/data/heldmsg-*.pck
+- /var/lib/mailman/data/virtual-mailman*
 + /var/lib/mailman/data/***
 - /var/lib/mailman/lists/*/digest.mbox
 - /var/lib/mailman/lists/*/*.pck
