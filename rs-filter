@@ -1,3 +1,4 @@
+- /etc/.updated
 - /etc/apparmor.d
 - /etc/apt/trusted.gpg*
 - /etc/bash_completion.d
