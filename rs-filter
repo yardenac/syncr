@@ -28,10 +28,8 @@
 - /etc/pacman.d/gnupg/secring.gpg
 - /etc/phpmyadmin
 - /etc/polkit-1
-- /etc/postgresql/9.1/main/pg_hba.conf
-- /etc/postgresql/9.1/main/pg_ident.conf
-- /etc/postgresql/9.3/main/pg_hba.conf
-- /etc/postgresql/9.3/main/pg_ident.conf
+- /etc/postgresql/*/main/pg_hba.conf
+- /etc/postgresql/*/main/pg_ident.conf
 - /etc/ppp/peers
 - /etc/ssl/private
 - /etc/ssl/certs
