@@ -23,6 +23,9 @@
 - /etc/dkimkeys/
 - /etc/dovecot/dovecot-*sql.conf.ext
 - /etc/dovecot/private/
+- /etc/elasticsearch/scripts/
+- /etc/elasticsearch/jvm.options
+- /etc/elasticsearch/log4j2.properties
 - /etc/exim4
 - /etc/fake-hwclock.data
 - /etc/fonts
