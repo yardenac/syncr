@@ -86,6 +86,8 @@
 - /etc/udev/rules.d/70-persistent-net.rules
 - /etc/ufw
 - /etc/wpa_supplicant/wpa_supplicant.conf
+- /etc/ld.so.cache
+- /etc/varnish/secret
 + /etc/***
 + /lib/
 + /lib/systemd/***
