@@ -15,6 +15,7 @@
 - /etc/default/cacerts
 - /etc/dkim/*.private
 - /etc/dkim/*.txt
+- /etc/dkimkeys/
 - /etc/dovecot/dovecot-*sql.conf.ext
 - /etc/dovecot/private/
 - /etc/exim4
