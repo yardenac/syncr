@@ -22,6 +22,7 @@
 - /etc/lvm/backup/
 - /etc/lvm/cache/
 - /etc/mail
+- /etc/network/interfaces
 - /etc/pacman.d/gnupg/crls.d/
 - /etc/pacman.d/gnupg/openpgp-revocs.d/
 - /etc/pacman.d/gnupg/private-keys-v1.d/
@@ -52,6 +53,7 @@
 - /etc/security/opasswd
 - /etc/ssh/ssh_host_key
 - /etc/ssh/ssh_host_*_key
+- /etc/udev/rules.d/70-persistent-net.rules
 - /etc/ufw
 - /etc/ld.so.cache
 + /etc/***
