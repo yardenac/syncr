@@ -82,7 +82,7 @@
 - /var/lib/mailman/lists/*/*.pck
 - /var/lib/mailman/lists/*/*.pck.last
 + /var/lib/mailman/lists/***
-- /var/lib/mailman/qfiles/virgin
+- /var/lib/mailman/qfiles/*
 - /var/lib/*
 + /var/www/***
 - /var/*
