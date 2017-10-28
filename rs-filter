@@ -21,6 +21,7 @@
 - /etc/dkim/*.private
 - /etc/dkim/*.txt
 - /etc/dkimkeys/
+- /etc/dovecot/dovecot-dict-auth.conf.ext
 - /etc/dovecot/dovecot-*sql.conf.ext
 - /etc/dovecot/private/
 - /etc/elasticsearch/scripts/
