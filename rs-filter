@@ -1,3 +1,12 @@
+- /boot/config-*
+- /boot/grub/fonts
+- /boot/grub/locale
+- /boot/grub/unicode.pf2
+- /boot/initrd.img-*
+- /boot/lost+found
+- /boot/System.map-*
+- /boot/vmlinuz-*
++ /boot/***
 - /etc/*-
 - /etc/.pwd.lock
 - /etc/.updated
