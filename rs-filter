@@ -89,6 +89,8 @@
 - /etc/security/opasswd
 - /etc/shadow
 - /etc/shadow.org
+- /etc/squid3/hosts
+- /etc/squid3/hosts.old
 - /etc/ssh/ssh_host_*_key
 - /etc/ssh/ssh_host_key
 - /etc/ssl/certs
