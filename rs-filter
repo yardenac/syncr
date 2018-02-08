@@ -10,15 +10,19 @@
 - /etc/at.deny
 - /etc/bash_completion.d
 - /etc/chatscripts
+- /etc/cups/printers.conf*
+- /etc/cups/ssl/
 - /etc/crypttab
 - /etc/dbconfig-common
 - /etc/default/cacerts
+- /etc/dhcpcd.secret
 - /etc/dkim/*.private
 - /etc/dkim/*.txt
 - /etc/dkimkeys/
 - /etc/dovecot/dovecot-*sql.conf.ext
 - /etc/dovecot/private/
 - /etc/exim4
+- /etc/fake-hwclock.data
 - /etc/fonts
 - /etc/fuse.conf
 - /etc/gshadow
@@ -57,6 +61,7 @@
 - /etc/sudoers*
 - /etc/udev/rules.d/70-persistent-net.rules
 - /etc/ufw
+- /etc/wpa_supplicant/wpa_supplicant.conf
 + /etc/***
 + /lib/
 + /lib/systemd/***
