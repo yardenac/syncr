@@ -42,6 +42,8 @@
 - /etc/fuse.conf
 - /etc/gshadow
 - /etc/icecast2/icecast.xml
+- /etc/iscsi/initiatorname.iscsi
+- /etc/iptables/TYPE GIT SHOW
 - /etc/iscsi/iscsid.conf
 - /etc/ld.so.cache
 - /etc/letsencrypt/accounts/
