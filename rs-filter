@@ -127,6 +127,7 @@
 - /var/lib/mailman/lists/*/digest.mbox
 - /var/lib/mailman/lists/*/*.pck
 - /var/lib/mailman/lists/*/*.pck.last
+- /var/lib/mailman/lists/*/*.pck.tmp.*
 + /var/lib/mailman/lists/***
 - /var/lib/mailman/qfiles/*
 - /var/lib/*
