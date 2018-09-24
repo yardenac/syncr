@@ -2,6 +2,7 @@
 - /etc/.pwd.lock
 - /etc/.updated
 - /etc/ImageMagick
+- /etc/adjtime
 - /etc/apparmor.d
 - /etc/apparmor.d/cache/sbin.dhclient
 - /etc/apparmor.d/cache/usr.sbin.tcpdump
