@@ -110,6 +110,9 @@
 + /usr/
 + /usr/lib/
 + /usr/lib/sysusers.d/***
++ /usr/local/
++ /usr/local/bin/***
+- /usr/local/*
 - /usr/lib/*
 - /usr/*
 + /var/
