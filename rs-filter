@@ -51,6 +51,7 @@
 - /etc/letsencrypt/archive/
 - /etc/letsencrypt/keys/
 - /etc/letsencrypt/live/
+- /etc/letsencrypt/root/
 - /etc/lvm/archive/
 - /etc/lvm/backup/
 - /etc/lvm/cache/
