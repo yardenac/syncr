@@ -30,6 +30,7 @@
 - /etc/dkim/*.private
 - /etc/dkim/*.txt
 - /etc/dkimkeys/
+- /etc/docker/key.json
 - /etc/dovecot/dovecot-dict-auth.conf.ext
 - /etc/dovecot/dovecot-*sql.conf.ext
 - /etc/dovecot/private/
